@@ -4,6 +4,7 @@ Exercicio  criando  um modelo de formulario  utilizando apenas  html5  e css3
 
 # O que foi utilizado
 - Utilizei  apenas  html5 e css3 
+- link para testar o formulario https://danilo55amaral.github.io/Exercicio-html-css-formulario/?
 
 # Excercicio
 ![formulario-02.PNG](https://github.com/Danilo55Amaral/Exercicio-html-css-formulario/blob/main/formulario-02.PNG)
